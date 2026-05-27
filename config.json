@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsdarse",
+        "uuid": 10552332,
+        "checksum": "tqmrbo"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
